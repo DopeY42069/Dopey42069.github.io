@@ -13,7 +13,7 @@ $website = htmlspecialchars($_POST['website']);
 $comment = htmlspecialchars($_POST['comment']);
 
 
-$email_form = 'joker0142000@gmail.com';
+$email_form = 'dopey42069.github.io';
 
 $email1_subject = 'New contact form submission';
 
